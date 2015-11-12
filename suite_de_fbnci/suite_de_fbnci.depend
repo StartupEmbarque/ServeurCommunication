@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446115920 source:c:\users\startbc\desktop\suite_de_fbnci\main.c
+	<stdio.h>
+	<stdlib.h>
+
